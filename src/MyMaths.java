@@ -21,7 +21,6 @@ public class MyMaths {
         result6 = Math.max(10, 20);
         result7 = Math.min(10, 20);
 
-
         System.out.println(result);
         System.out.println(result1);
         System.out.println(result2);
